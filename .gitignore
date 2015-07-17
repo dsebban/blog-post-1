@@ -1,0 +1,11 @@
+target/*
+logs/*
+movies.txt
+.settings
+.classpath
+.project
+/target
+styles.css
+addons.scss
+rebel.xml
+.idea/*
